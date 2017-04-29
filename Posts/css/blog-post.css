@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - Blog Post (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.img-custom{
+border-color: black;
+border-image-width: 200px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.title-custom{
+	font-family: helvetica, sans-serif;
+	margin-bottom: 100px;
+	text-align: center;
+	font-size: 100px;
+}
